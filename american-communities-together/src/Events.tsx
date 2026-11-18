@@ -5,8 +5,8 @@ function EventsPage() {
     <main>
       <header className="site-header">
         <a href="/" className="brand" aria-label="American Communities Together home"><img className="mark" src="/logo.png" alt="" /><span>American Communities Together</span></a>
-        <nav aria-label="Main navigation"><a href="/">Home</a><a href="/about">About</a><a href="/mission">Our Mission</a><a className="active" href="/events">Events</a></nav>
-        <a className="header-cta" href="#connect">Connect with us</a>
+        <nav aria-label="Main navigation"><a href="/">Home</a><a href="/about">About</a><a href="/mission">Our Mission</a><a className="active" href="/events">Events</a><a href="/contact">Contact Us</a></nav>
+        <a className="header-cta" href="/contact">Connect with us</a>
       </header>
       <section className="mission-hero events-hero" aria-labelledby="events-heading">
         <div className="mission-hero-content">
